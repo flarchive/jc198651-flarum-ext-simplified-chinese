@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of jc198651/flarum-ext-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/jc198651/flarum-ext-simplified-chinese) or the [upstream repository](https://github.com/jc198651/flarum-ext-simplified-chinese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/jc198651-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/jc198651-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.6` | 2016-12-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/jc198651-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) |
 
 Catalog entry: [packages/jc198651-flarum-ext-simplified-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/jc198651-flarum-ext-simplified-chinese.json)
 
